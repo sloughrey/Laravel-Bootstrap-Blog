@@ -4,7 +4,7 @@ A quick blog built with laravel while learning and messing around with some of t
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install
 
 - Composer
 - NPM
