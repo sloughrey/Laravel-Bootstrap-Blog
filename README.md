@@ -21,5 +21,5 @@ What things you need to install
 ## Built With
 
 * [Laravel](https://laravel.com/) - The PHP framework used
-* [Bootstrap](http://getbootstrap.com/) - Dependency Management
+* [Bootstrap](http://getbootstrap.com/) - CSS Framework
 
